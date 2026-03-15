@@ -1,5 +1,5 @@
 <a href="https://github.com/piyushahir05"> 
- <img align="center" src="./images/header.png" width="100%">    
+ <img align="center" src="./images/header_piyush_ahir.png" width="100%">    
 </a>
 <p align="center">
 
