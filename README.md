@@ -85,8 +85,8 @@
 <table align="center">
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=python" width="45"/><br/>Python</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=pandas" width="45"/><br/>Pandas</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=numpy" width="45"/><br/>Numpy</td>
+    <td align="center"><img src="https://seeklogo.com/free-vector-logos/pandas" width="45"/><br/>Pandas</td>
+    <td align="center"><img src="https://github.com/deena-lad/Numpy-Beginner-to-Advanced" width="45"/><br/>Numpy</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=sklearn" width="45"/><br/>Scikit-learn</td>
   </tr>
 </table>
@@ -97,6 +97,6 @@
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=git" width="45"/><br/>Git</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=github" width="45"/><br/>GitHub</td>
-    
+
   </tr>
 </table>
