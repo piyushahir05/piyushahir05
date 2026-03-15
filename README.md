@@ -40,7 +40,7 @@
 
 
 > [!WARNING]  
-> - 💪🏼 Future Goals: Learn more technologie - Never stop creating new ideas.
+> - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 
 > [!TIP]  
 > - 📗 If you're interested in collaborating or have any questions — I'd love to hear from you!
@@ -84,9 +84,9 @@
 <h2 align="center">🤖 Machine Learning & Data Science</h2>
 <table align="center">
   <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=python" width="45"/><br/>Python
-    </td>
+  <td align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="45"/><br/>Matplotlib
+</td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45"/><br/>NumPy
     </td>
@@ -103,8 +103,28 @@
 <h2 align="center">🛠️ DevOps, Systems & Tooling</h2>
 <table align="center">
   <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="45"/><br/>VS Code</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=git" width="45"/><br/>Git</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=github" width="45"/><br/>GitHub</td>
 
   </tr>
 </table>
+
+<h2 align="center">📊 GitHub Stats</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=piyushahir05&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://streak-stats.demolab.com/?user=piyushahir05&theme=tokyonight" width="48%"/>
+</p>
+
+<h2 align="center">🤝 Connect with Me</h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/piyush-ahir-682a8330a/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+  </a>
+  <a href="mailto:piyushahir0507@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="45"/>
+  </a>
+  <a href="https://github.com/piyushahir05">
+    <img src="https://skillicons.dev/icons?i=github" width="45"/>
+  </a>
+</p>
