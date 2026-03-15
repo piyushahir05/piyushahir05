@@ -84,11 +84,18 @@
 <h2 align="center">🤖 Machine Learning & Data Science</h2>
 <table align="center">
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=python" width="45"/><br/>Python</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40px"/><br/>Pandas</td>
-    <td align="center"><img src="https://github.com/deena-lad/Numpy-Beginner-to-Advanced" width="45"/><br/>Numpy</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40px"/><br/>Scikit-learn</td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=python" width="45"/><br/>Python
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45"/><br/>NumPy
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45"/><br/>Pandas
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=sklearn" width="45"/><br/>Scikit-learn
+    </td>
   </tr>
 </table>
 
