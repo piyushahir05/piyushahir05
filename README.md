@@ -122,9 +122,11 @@
   <a href="https://www.linkedin.com/in/piyush-ahir-682a8330a/">
     <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://mail.google.com/mail/?view=cm&to=piyushahir0507@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="45"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/piyushahir05">
     <img src="https://skillicons.dev/icons?i=github" width="45"/>
   </a>
