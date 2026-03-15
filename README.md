@@ -19,20 +19,9 @@
 </a>
 <p align="center">
 
- <!--
-<a href="https://github.com/piyushahir05"> 
- <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=3000&pause=100&multiline=true&width=550&height=80&lines=Walid+BOUSSOU;Specialized+Master's+Student+%7C+Computer+Science+Engineering+;Full+Stack+Developer+%7C+J2EE+with+Angular+%7C+MERN+%7C+Laravel+%7C+Python; ; " alt="Typing SVG" />
-</a>
-
-<br/>
-
-
-<!--Intro-->
 
  
-## 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛 />! <a href="https://github.com/piyushahir05"><img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30px"></a><a href="https://github.com/piyushahir05"><img align="right" width ="%" src="https://komarev.com/ghpvc/?username=piyushahir05&style=for-the-badge&color=blue"></a>
-
-
+## 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛 />! <a href="https://github.com/piyushahir05"><img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30px"></a>
 
 
 
@@ -55,3 +44,59 @@
 
 > [!TIP]  
 > - 📗 If you're interested in collaborating or have any questions — I'd love to hear from you!
+
+<h2 align="center">🧠 Core Programming</h2>
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=c" width="50"/><br/><b>C</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=cpp" width="50"/><br/><b>C++</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=java" width="50"/><br/><b>Java</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=python" width="50"/><br/><b>Python</b></td>
+  </tr>
+</table>
+
+
+<h2 align="center">🌐 Web & Full-Stack Development</h2>
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=html" width="45"/><br/>HTML</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=css" width="45"/><br/>CSS</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=js" width="45"/><br/>JavaScript</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react" width="45"/><br/>React</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="45"/><br/>Node.js</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=express" width="45"/><br/>Express</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="45"/><br/>Tailwind</td>
+  </tr>
+</table>
+
+
+<h2 align="center">🧩 Databases</h2>
+
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="45"/><br/>MySQL</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="45"/><br/>MongoDB</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=sqlite" width="45"/><br/>SQLite</td>
+  </tr>
+</table>
+
+
+<h2 align="center">🤖 Machine Learning & Data Science</h2>
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=python" width="45"/><br/>Python</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=pandas" width="45"/><br/>Pandas</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=numpy" width="45"/><br/>Numpy</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=sklearn" width="45"/><br/>Scikit-learn</td>
+  </tr>
+</table>
+
+
+<h2 align="center">🛠️ DevOps, Systems & Tooling</h2>
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git" width="45"/><br/>Git</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=github" width="45"/><br/>GitHub</td>
+    
+  </tr>
+</table>
