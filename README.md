@@ -116,11 +116,12 @@
   <img src="https://streak-stats.demolab.com/?user=piyushahir05&theme=tokyonight" width="48%"/>
 </p>
 
+<h2 align="center">🌍 Language Usage % Across All Repos</h2>
 <p align="center">
-  <!-- Top Languages by Repo -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushahir05&layout=compact&theme=tokyonight" width="48%"/>
-  <!-- Top Languages by Commit (pie chart) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushahir05&layout=pie&theme=tokyonight" width="40%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushahir05&layout=compact&theme=tokyonight&langs_count=20&count_private=true" width="55%"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushahir05&layout=donut&theme=tokyonight&langs_count=20&count_private=true" width="45%"/>
 </p>
 
 
