@@ -116,12 +116,6 @@
   <img src="https://streak-stats.demolab.com/?user=piyushahir05&theme=tokyonight" width="48%"/>
 </p>
 
-<p align="center">
-  <!-- Top Languages by Repo -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushahir05&layout=compact&theme=tokyonight" width="48%"/>
-  <!-- Top Languages by Commit (pie chart) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushahir05&layout=pie&theme=tokyonight" width="40%"/>
-</p>
 
 
 <h2 align="center">🤝 Connect with Me</h2>
