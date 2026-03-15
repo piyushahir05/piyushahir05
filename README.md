@@ -116,12 +116,13 @@
   <img src="https://streak-stats.demolab.com/?user=piyushahir05&theme=tokyonight" width="48%"/>
 </p>
 
+
 <h2 align="center">🤝 Connect with Me</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/piyush-ahir-682a8330a/">
     <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
   </a>
-  <a href="mailto:piyushahir0507@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&to=piyushahir0507@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="45"/>
   </a>
   <a href="https://github.com/piyushahir05">
