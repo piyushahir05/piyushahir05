@@ -11,8 +11,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=60&lines=%3E+Passionate+Developer+%7C+Full+Stack+%7C+AI%2FML+Enthusiast" alt="Typing SVG" />
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation" />
-
 </div>
 
 ---
