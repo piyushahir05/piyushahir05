@@ -1,13 +1,13 @@
-<table align="center" border="0" cellspacing="0" cellpadding="20">
-  <tr>
-    <td valign="center" width="55%" style="border:none;">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=38&pause=1200&color=00D4FF&center=false&vCenter=true&width=520&height=80&lines=Hi!+I'm+Piyush+Ahir+👋;Passionate+Full+Stack+Dev+%26+AI+Enthusiast+🚀;Information+Technology+@+PICT+🎓" alt="Typing SVG" />
-    </td>
-    <td valign="center" width="45%" style="border:none;">
-      <img src="./images/person.png" width="100%" alt="Piyush Avatar"/>
-    </td>
-  </tr>
-</table>
+<div align="center">
+<h1 style="color:#00FF9F;">Piyush Ahir</h1>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=800&color=00D4FF&center=true&vCenter=true&width=800&height=60&lines=Passionate+Full+Stack+Dev+%26+AI+Enthusiast+🚀;Information+Technology+@+PICT+🎓" alt="Typing SVG" />
+
+<br/>
+
+<img src="./images/person.png" width="320" alt="Piyush Avatar"/>
+
+</div>
 
 <br/>
 
