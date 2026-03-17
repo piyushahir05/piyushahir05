@@ -1,5 +1,6 @@
 <div align="center">
-<h1 style="color:#00FF9F;">Piyush Ahir</h1>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&weight=900&size=70&pause=99999&color=00FF9F&center=true&vCenter=true&width=800&height=100&lines=Piyush+Ahir" alt="Name" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=800&color=00D4FF&center=true&vCenter=true&width=800&height=60&lines=Passionate+Full+Stack+Dev+%26+AI+Enthusiast+🚀;Information+Technology+@+PICT+🎓" alt="Typing SVG" />
 
