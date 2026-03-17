@@ -116,3 +116,5 @@
     <img src="https://skillicons.dev/icons?i=github" width="45"/>
   </a>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF9F&height=80&section=footer&animation=none" />
